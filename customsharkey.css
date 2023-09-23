@@ -1,17 +1,17 @@
 .xj9v4 {
-  height:calc(0% - 6px)
+  height:calc(0% - 6px)!important
 }
 
 .x4X6J {
-  --columnGap: 5px;
+  --columnGap: 5px!important
 }
 
 .xnksy {
-    border-radius: 0px;
+    border-radius: 0px!important
 }
 
 .xAOWy {
-    padding-top: 0px;
+    padding-top: 0px!important
 }
 
 body {
@@ -19,18 +19,18 @@ body {
 }
 
 .xnksy.xuhuO > .xlmHf {
-    background: var(--panelHeaderBg);
+    background: var(--panelHeaderBg)!important
 }
 
 .xzSZs:not(.xwehs) > .xqbRq .x3762 {
-    border-radius: 0px
+    border-radius: 0px!important
 }
 
 ._panel {
-    border-radius: 0px
+    border-radius: 0px!important
 }
 
 .xxL8G {
-    cursor: auto;
-    opacity: 0
+    cursor: auto!important;
+    opacity: 0!important
 }
