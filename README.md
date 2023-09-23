@@ -1,1 +1,2 @@
-# phenolfight-custom-css-for-sharkey
+# PhenolFight's Custom CSS for Fediverse Client Sharkey
+
