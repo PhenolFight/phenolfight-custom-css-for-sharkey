@@ -1,0 +1,9 @@
+body {
+    --header:var(--panel);
+    .xApN7 {
+        padding:0px 0px max(0px,env(safe-area-inset-bottom,0px)) 0px
+    }
+    .x7c6u {
+        background:var(--panel)
+    }
+}
